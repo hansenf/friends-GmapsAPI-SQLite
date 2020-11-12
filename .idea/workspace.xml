@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc5ffad1-ff0f-490a-b29d-4609af4fdf03" name="Default Changelist" comment="V1 screen home">
+    <list default="true" id="fc5ffad1-ff0f-490a-b29d-4609af4fdf03" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileChanges/last-build.bin" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.gradle/6.1.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -137,6 +137,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="hansenferiandy@gmail.com" />
         <option value="Hansen Feriandy" />
       </list>
     </option>
@@ -244,15 +245,27 @@
     <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="V1 screen home" />
     <option name="LAST_COMMIT_MESSAGE" value="V1 screen home" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="166" y="4" key="CommitChangelistDialog2" timestamp="1605166248408">
+    <state x="240" y="65" key="#Notifications" timestamp="1605166448108">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="166" y="4" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1605166248408" />
+    <state x="240" y="65" key="#Notifications/0.0.1280.800@0.0.1280.800" timestamp="1605166448108" />
+    <state x="166" y="4" key="CommitChangelistDialog2" timestamp="1605166285924">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="166" y="4" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1605166285924" />
+    <state x="228" y="150" key="IDE.errors.dialog" timestamp="1605166439973">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="228" y="150" key="IDE.errors.dialog/0.0.1280.800@0.0.1280.800" timestamp="1605166439973" />
     <state x="420" y="324" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605166136123">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
